@@ -2,6 +2,8 @@
 
 This is a vagrant plugin that add host capabilities if you use [Chakraos](https://chakralinux.org/).
 
+Latest version : [![Gem Version](https://badge.fury.io/rb/vagrant-chakraos-host.svg)](https://badge.fury.io/rb/vagrant-chakraos-host)
+
 ## Installation
 
 Install it yourself as:
@@ -10,7 +12,7 @@ Install it yourself as:
 
 ## Usage
 
-There's nothing else to do than install it :D
+There's nothing more to do than install it :D
 
 ## Development
 
