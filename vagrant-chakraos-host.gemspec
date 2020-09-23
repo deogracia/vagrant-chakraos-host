@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Vagrant::Chakraos::Host::VERSION
   spec.authors       = ["Lionel Félicité"]
   spec.email         = ["deogracia@free.fr"]
+  spec.licenses      = ["MIT"]
 
   spec.summary       = %q{Host capabilities for Chakraos}
   spec.description   = %q{Add chakraos' host capabilities to vagrant.}
